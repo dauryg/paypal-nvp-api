@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0rc1",
+  "version": "2.0.0rc2",
   "name": "paypal-nvp-api",
   "description": "Node.js wrapper for the Paypal Name-Value Pair — NVP ",
   "homepage": "https://www.npmjs.com/package/paypal-nvp-api",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "bellajs": "^9.2.2",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "1.7.3"
   },
   "devDependencies": {
     "eslint-config-goes": "^1.1.8",
